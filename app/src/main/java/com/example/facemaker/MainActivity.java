@@ -1,3 +1,4 @@
+//AUTHOR NOAH LAFAVE
 package com.example.facemaker;
 
 import androidx.appcompat.app.AppCompatActivity;
